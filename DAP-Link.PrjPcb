@@ -153,7 +153,7 @@ GenerateClassCluster=0
 DocumentUniqueId=DXBZUYNJ
 
 [Document7]
-DocumentPath=..\Altium-Designer-Resources\立创\立创过孔工艺.PvLib
+DocumentPath=Rules\立创过孔工艺.PvLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -193,7 +193,7 @@ AddNetPorts=-1
 ShowComponentParameters=-1
 GlobalBookmarks=0
 ExportBOM=0
-TemplateFilename=D:\Robomaster\Hardware\DAP-Link\Board Stack Report.XLT
+TemplateFilename=Board Stack Report.XLT
 TemplateStoreRelative=0
 PCB_PrintColor=1
 SCH_PrintColor=0
