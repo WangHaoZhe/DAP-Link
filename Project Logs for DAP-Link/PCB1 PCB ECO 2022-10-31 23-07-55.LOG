@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=nRST Pin=R7-1
+Removed Pin From Net: NetName=nRST Pin=U1-18
+Change Net Name : Old Net Name=nRST New Net Name=N_RST
+Added Pin To Net: NetName=nRST Pin=R7-1
+Added Pin To Net: NetName=nRST Pin=U1-18
+Added Net: Name=nRST
