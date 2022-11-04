@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\Robomaster\Hardware\DAP-Link\DAP-Link.PcbDoc
-Date     : 2022/11/3
-Time     : 23:16:15
+Date     : 2022/11/4
+Time     : 16:16:39
 
 Processing Rule : Clearance Constraint (Gap=3.937mil) (All),(All)
 Rule Violations :0
@@ -18,7 +18,7 @@ Rule Violations :0
 Processing Rule : Width Constraint (Min=3.5mil) (Max=100mil) (Preferred=5mil) (All)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=5mil) (Conductor Width=5mil) (Air Gap=5mil) (Entries=4) (All)
 Rule Violations :0
 
 Processing Rule : Hole Size Constraint (Min=7.874mil) (Max=248.031mil) (All)
@@ -37,25 +37,19 @@ Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
 
 Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Arc (599.762mil,248.291mil) on Bottom Overlay And Board Edge 
-Rule Violations :1
+   Violation between Board Outline Clearance(Outline Edge): (4.99mil < 15.748mil) Between Board Edge And Track (983.2mil,199.804mil)(991.074mil,199.804mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (4.99mil < 15.748mil) Between Board Edge And Track (983.2mil,-199.804mil)(991.074mil,-199.804mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (4.988mil < 15.748mil) Between Board Edge And Track (991.075mil,-199.804mil)(991.075mil,199.8mil) on Top Overlay 
+Rule Violations :3
 
 Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
 Rule Violations :0
 
-Waived Violations Of Rule : Net Antennae (Tolerance=0mil) (All)
-   Waived Violation between Net Antennae: Via (372.338mil,14mil) from Top Layer to Bottom Layer Waived by Albert Wang at 2022/11/3 22:58:03
-   Waived Violation between Net Antennae: Via (372.338mil,-29.307mil) from Top Layer to Bottom Layer Waived by Albert Wang at 2022/11/3 22:58:03
-   Waived Violation between Net Antennae: Via (372.338mil,57.307mil) from Top Layer to Bottom Layer Waived by Albert Wang at 2022/11/3 22:58:03
-   Waived Violation between Net Antennae: Via (415.645mil,14mil) from Top Layer to Bottom Layer Waived by Albert Wang at 2022/11/3 22:58:03
-   Waived Violation between Net Antennae: Via (415.645mil,-29.307mil) from Top Layer to Bottom Layer Waived by Albert Wang at 2022/11/3 22:58:03
-   Waived Violation between Net Antennae: Via (415.645mil,57.307mil) from Top Layer to Bottom Layer Waived by Albert Wang at 2022/11/3 22:58:03
-   Waived Violation between Net Antennae: Via (458.952mil,14mil) from Top Layer to Bottom Layer Waived by Albert Wang at 2022/11/3 22:58:03
-   Waived Violation between Net Antennae: Via (458.952mil,-29.307mil) from Top Layer to Bottom Layer Waived by Albert Wang at 2022/11/3 22:58:03
-   Waived Violation between Net Antennae: Via (458.952mil,57.307mil) from Top Layer to Bottom Layer Waived by Albert Wang at 2022/11/3 22:58:03
-Waived Violations :9
+Waived Violations Of Rule : Board Clearance Constraint (Gap=0mil) (All)
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Arc (599.762mil,248.291mil) on Bottom Overlay And Board Edge Waived by Albert Wang at 2022/11/3 23:16:27
+Waived Violations :1
 
 
-Violations Detected : 1
-Waived Violations : 9
-Time Elapsed        : 00:00:02
+Violations Detected : 3
+Waived Violations : 1
+Time Elapsed        : 00:00:01

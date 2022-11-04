@@ -1,0 +1,50 @@
+Altium Designer Pick and Place Locations
+D:\Robomaster\Hardware\DAP-Link\Project Outputs for DAP-Link\Pick Place\Pick Place for DAP-Link.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       04/11/22
+Time:       18:36
+Revision:   389f030dac16995ab33da83fbe5c4dfc94853738
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"R14","22R","TopLayer","RESC1005X40X25LL05T10","220.753","-7.525","0",""
+"R13","22R","TopLayer","RESC1005X40X25LL05T10","220.753","-41.000","0",""
+"R12","1K5","BottomLayer","RESC1005X40X25ML05T10","218.000","-134.839","0",""
+"R11","1K5","BottomLayer","RESC1005X40X25ML05T10","188.000","64.000","0",""
+"R10","1K5","BottomLayer","RESC1005X40X25ML05T10","188.000","109.286","180",""
+"Q1","PNP","BottomLayer","INF-SOT23_N","218.000","-35.419","270","PNP Silicon Switching Transistor, 40 V VCEO, 200 mA IC, SOT23, Reel, Green"
+"J1","DX07S016JA1R1500","TopLayer","FP-DX07S016JA1R1500-MFG","43.148","-0.065","270","CONN RCP USB2.0 TYP C 24P SMD RA"
+"U1","","TopLayer","STM-UFQFPN48_N","415.645","14.000","180","ARM Cortex-M3 32-bit MCU, 128 KB Flash, 20 KB Internal RAM, 37 I/Os, 48-pin UFQFPN, -40 to 85 degC, Tray"
+"C1","10uF","BottomLayer","FP-CL10-IPC_C","283.000","88.845","270","Cap Ceramic 10uF 25V X5R ㊣20% Pad SMD 0603 +85～C T/R"
+"Y1","8MHz","TopLayer","NDK-NX3225GD-8MHZ-STD-CRA-3_V","654.828","-53.402","270","Crystal Unit, 8 MHz, 8 pF, -40 to 150 degC, 2-Pin SMD, RoHS, Tape and Reel"
+"U2","TLV1117-33IDCYR","BottomLayer","FP-DCY0004A-MFG","691.297","68.173","270","IC REG LIN 3.3V 800MA SOT223-4"
+"R9","10k次","TopLayer","RESC1005X40X25NL05T05","618.000","54.876","90",""
+"R8","10k次","TopLayer","RESC1005X40X25NL05T05","335.155","197.081","180",""
+"R7","10k次","TopLayer","RESC1005X40X25NL05T05","408.000","197.081","180",""
+"R6","10k次","TopLayer","RESC1005X40X25NL05T05","615.458","-161.679","90",""
+"R5","100R","BottomLayer","RESC1608X55X25ML10T15","871.425","14.000","90","Chip Resistor, 100 Ohm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"R4","100R","BottomLayer","RESC1608X55X25ML10T15","871.425","-117.900","270","Chip Resistor, 100 Ohm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"R3","100R","BottomLayer","RESC1608X55X25ML10T15","871.425","145.900","270","Chip Resistor, 100 Ohm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"R2","10k次","TopLayer","RESC1005X40X25NL05T05","438.303","-191.798","90",""
+"R1","10k次","TopLayer","RESC1005X40X25NL05T05","400.891","-191.798","90",""
+"P1","53261-0471","TopLayer","MOLEX-53261-0471_V","851.310","0.000","90","Male Header, Pitch 1.25 mm, 1 x 4 Position, Height 3.4 mm, -40 to 85 degC, RoHS, Tape and Reel"
+"FB2","600次@100MHz","TopLayer","MURA-BLM18-F-H1-CHIP-2_V","197.686","86.520","90","Chip Ferrite Bead for General Use, 600 Ohm, 500 mA, -55 to 125 degC, 1.6 x 0.8 x 0.95 mm SMD, Tape and Reel"
+"FB1","600次@100MHz","TopLayer","MURA-BLM18-F-H1-CHIP-2_V","653.000","182.257","180","Chip Ferrite Bead for General Use, 600 Ohm, 500 mA, -55 to 125 degC, 1.6 x 0.8 x 0.95 mm SMD, Tape and Reel"
+"D2","LED BLUE","TopLayer","FP-LTST-C191TBKT-MFG","510.163","-190.813","180","LED BLUE CLEAR CHIP SMD"
+"D1","LED GREEN","TopLayer","FP-LTST-C190GKT-MFG","329.031","-191.000","0","LED GREEN CLEAR CHIP SMD"
+"C12","20pF","TopLayer","CAPC1608X90X30LL10T20","708.571","62.750","270","Chip Capacitor, 20 pF, +/- 5%, 50 V, -55 to 85 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"C11","20pF","TopLayer","CAPC1608X90X30LL10T20","678.460","-147.900","0","Chip Capacitor, 20 pF, +/- 5%, 50 V, -55 to 85 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"C10","10uF","BottomLayer","FP-CL10-IPC_C","213.000","173.740","180","Cap Ceramic 10uF 25V X5R ㊣20% Pad SMD 0603 +85～C T/R"
+"C9","100UF 10% 6.3V","BottomLayer","FP-TAJB-MFG","699.181","-163.136","180","100uF 6.3V  ㊣10% 1.7次 1210  SMD Tantalum Capacitor"
+"C8","100nF","TopLayer","CAPC1050X55X23ML05T13","661.317","62.750","90","Chip Capacitor,?100 nF, +/- 10%,?16 V, -55 to 125 degC, 0402 (1005 Metric), RoHS, Tape and Reel"
+"C7","1uF","TopLayer","FP-CL542-IPC_C","212.598","181.102","180","Cap Ceramic 1uF 25V X5R ㊣10% SMD 0402 +85～C Paper T/R"
+"C6","100nF","BottomLayer","CAPC1050X55X23ML05T13","311.192","204.000","180","Chip Capacitor,?100 nF, +/- 10%,?16 V, -55 to 125 degC, 0402 (1005 Metric), RoHS, Tape and Reel"
+"C5","100nF","BottomLayer","CAPC1050X55X23ML05T13","473.000","-166.000","0","Chip Capacitor,?100 nF, +/- 10%,?16 V, -55 to 125 degC, 0402 (1005 Metric), RoHS, Tape and Reel"
+"C4","100nF","BottomLayer","CAPC1050X55X23ML05T13","284.939","-166.000","90","Chip Capacitor,?100 nF, +/- 10%,?16 V, -55 to 125 degC, 0402 (1005 Metric), RoHS, Tape and Reel"
+"C3","100nF","BottomLayer","CAPC1050X55X23ML05T13","556.455","-166.000","90","Chip Capacitor,?100 nF, +/- 10%,?16 V, -55 to 125 degC, 0402 (1005 Metric), RoHS, Tape and Reel"
+"C2","100nF","TopLayer","CAPC1050X55X23ML05T13","641.048","131.658","180","Chip Capacitor,?100 nF, +/- 10%,?16 V, -55 to 125 degC, 0402 (1005 Metric), RoHS, Tape and Reel"
+"1","Loader","TopLayer","Loader","223.000","-163.500","90",""

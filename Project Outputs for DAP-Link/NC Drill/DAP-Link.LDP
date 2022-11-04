@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\Robomaster\Hardware\DAP-Link\DAP-Link.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=dap-link-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=dap-link-slotholes.txt|DrillLayers=gtl,g1,g2,gbl

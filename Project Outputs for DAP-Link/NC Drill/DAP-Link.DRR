@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: DAP-Link.PcbDoc   2022/11/4  16:38:12
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : DAP-Link-RoundHoles.TXT
+ASCII SlotHoles File : DAP-Link-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)            +0.13mm (5mil)/-0.08mm (3mil)     Round             26        PTH        60.33mm (2.38inch)
+T2      0.2mm (8mil)                                              Round             25        PTH        28.60mm (1.13inch)
+T3      0.6mm (24mil)                                             Slot              4         PTH        47.96mm (1.89inch)
+T4      0.6mm (24mil)                                             Round             1         NPTH       0.00mm (0.00inch)
+T5      0.6mm (24mil)                                             Slot              1         NPTH       0.25mm (0.01inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              57
+
+Total Processing Time (hh:mm:ss) : 00:00:00
